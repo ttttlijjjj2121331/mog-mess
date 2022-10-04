@@ -2,8 +2,8 @@
 # V2Ray new configuration
 # Run V2ray
 # Write V2Ray configuration
-UUID=51afe4b8-c82e-4d6b-194d-a6e32ba99573
-PATHM=wgresserewar
+UUID=5fds4b8-c82e-wetb-194d-a6e3wgrf573
+PATHM=wgweerw
 cat << EOF > /etc/v2ray/config.json
 {
     "inbounds": [{
